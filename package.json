@@ -1,7 +1,6 @@
 {
-	"name": "firstlibrary",
+	"name": "Speedum-firstlibrary",
 	"version": "0.1.1",
-	"private": true,
 	"description": "",
 	"repository": {
 		"type": "git",
